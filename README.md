@@ -12,12 +12,16 @@ Microsoft is a muiltnational corporation known for producing software, electroni
 -----
 
 ### Data Understanding and Analysis
+
+The data comes from a rotten tomatoes dtataset. The code for creating the graphs can be found  in the  jupyter notebook. This set included movies Box Office number, the rating, the director and genre. With the box office number, it is measured by millions of dollars. We utilized seaborn to plot our graphs. For the following graph we filtered down the dataset to utilize the genre and box office columns. We used a bar graph to show the relationship between specific genres and their box office earnings. We filtered it down to the top twenty however we focus in on the top two, comedy & drama. Comedy brought in a whopping ##$1.5 Million**.during our analysis With comendy we suggest enetering into the field with and comedy movie. 
+
 Genre & Box Office Relationship
 ![alt text](https://i.imgur.com/023cjm6.png)
 
+This graphic utilized the Rating column and corrisponding box office column of the data set. With this we were able to graph the relatuonship betwen a movies's earnings and the rating. This showed that PG-13 movies brought in biggest return. We attribute this to the accesbility of Pg-13 movies compared to a R rated movie.We recomend  
 Movie's Rating & Box Office Relationship 
 ![alt text](https://i.imgur.com/kpg7vcS.png)
-
+THe following graphic accounts for directors and their corresponding box office earnings. It illustared the imortance of finding the right director. We fould that experience directros have a hightory of making the orpoer call
 Top Directors & Box Office Relationship
 ![alt text](https://i.imgur.com/tM1MFil.png)
 
