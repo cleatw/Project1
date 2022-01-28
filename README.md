@@ -28,7 +28,7 @@ Top Directors & Box Office Relationship
 -----
 
 ### Conclusion
-We belive that with our findings, Microsoft would be able to successfully enter the movie industry. Based on the data, comedy movies have returned the biggest box office numbers. This aligns with our goal of helping Microsoft break into the field while retaining maximimum profit. Futhermore we suggest selecting an experinced director. Seasoned directors had higher box office earnings due to their cache and success within the industry and thus we recommend to hire an established director. We were also able to see that Pg-13 or R movies would be an appropriate rating to aim for.
+We believe that with our analysis and model Microsoft would be able to successfully enter the movie industry. Based on the data, comedy movies have returned the biggest box office numbers. This aligns with our goal of helping Microsoft break into the field while retaining maximimum profit. Futhermore we suggest selecting an experinced director. Seasoned directors had higher box office earnings due to their cache and success within the industry and thus we recommend to hire an established director. We were also able to see that Pg-13 or R movies would be an appropriate rating to aim for.
 
 
 -----
