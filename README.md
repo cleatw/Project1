@@ -18,10 +18,10 @@ The data comes from a Rotten Tomatoes dataset. The code for creating the graphs 
 Genre & Box Office Relationship
 ![alt text](https://i.imgur.com/023cjm6.png)
 
-This graphic utilized the Rating column and corrisponding box office column of the data set. With this we were able to demonstrate that PG-13 movies brought in biggest ROI.
+
 Movie's Rating & Box Office Relationship 
 ![alt text](https://i.imgur.com/kpg7vcS.png)
-THe following graphic accounts for directors and their corresponding box office earnings. It allowed us to show the importance of finding the right director.
+
 Top Directors & Box Office Relationship
 ![alt text](https://i.imgur.com/tM1MFil.png)
 
