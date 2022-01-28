@@ -13,13 +13,13 @@ Microsoft is a muiltnational corporation known for producing software, electroni
 
 ### Data Understanding and Analysis
 Genre & Box Office Relationship
-![alt text](https://i.imgur.com/ez8eUh6.png)
+![alt text](https://i.imgur.com/023cjm6.png)
 
 Movie's Rating & Box Office Relationship 
-![alt text](https://i.imgur.com/57TiuM1.png)
+![alt text](https://i.imgur.com/kpg7vcS.png)
 
 Top Directors & Box Office Relationship
-![alt text](https://i.imgur.com/2BCHDqH.png)
+![alt text](https://i.imgur.com/tM1MFil.png)
 
 -----
 
