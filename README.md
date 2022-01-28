@@ -34,3 +34,7 @@ We believe that with our analysis and model Microsoft would be able to successfu
 -----
 
 ### Repository Structure
+├── Data -- master.csv -- rt.movie_info.tsv
+├──.gitignore
+├──Project 1 Notebook.ipynb
+├──-README.md
