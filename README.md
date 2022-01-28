@@ -20,7 +20,7 @@ Genre & Box Office Relationship
 
 
 Movie's Rating & Box Office Relationship 
-![alt text](https://i.imgur.com/kpg7vcS.png)
+![alt text](https://i.imgur.com/5gYRUFa.png)
 
 Top Directors & Box Office Relationship
 ![alt text](https://i.imgur.com/tM1MFil.png)
